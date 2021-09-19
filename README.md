@@ -9,7 +9,7 @@ constraints and 0 public inputs.
 First, clone this repository and install dependencies:
 
 ```bash
-git clone  && \
+git clone https://github.com/weijiekoh/snarkjs_plonk_in_browser.git && \
 cd snarkjs_plonk_in_browser && \
 npm i
 ```
